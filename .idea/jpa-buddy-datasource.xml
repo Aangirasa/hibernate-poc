@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="407e8a6f-8846-4e49-8d3a-4883c2ea455f" name="hibernate-poc" url="jdbc:h2:file:~/h2/hibernate-poc" driverClass="org.h2.Driver" />
+    </data-sources>
+  </component>
+</project>
